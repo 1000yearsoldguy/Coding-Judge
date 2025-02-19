@@ -20,6 +20,18 @@
      VITE_measurementId=YOUR_MEASUREMENT_ID
      VITE_IMAGE_HOSTING_KEY=YOUR_IMAGE_HOSTING_KEY
      ```
+     Such as:
+     ```
+     VITE_apiKey=AIzaSyDare_tQIPVggwA5VHqhTgPgg9T94JqHxQ
+     VITE_authDomain=programming-contest-20813.firebaseapp.com
+     VITE_projectId=programming-contest-20813
+     VITE_storageBucket=programming-contest-20813.firebasestorage.app
+     VITE_messagingSenderId=396842534263
+     VITE_appId=1:396842534263:web:e713856470475a30be0d72
+     VITE_measurementId=G-2WJDLDBJ4T
+
+     VITE_IMAGE_HOSTING_KEY=d57dbe78993496b300e91cb9604d6b9a
+     ```
 
    - **Server (codingJudgeServer) Configuration:**
      - Navigate to the `codingJudgeServer` folder.
@@ -31,6 +43,13 @@
      DB_PASS=YOUR_DB_PASS
      PORT=5000
      ACCESS_TOKEN_SECRET=YOUR_ACCESS_TOKEN_SECRET
+     ```
+     Such as:
+     ```
+     DB_USER=mernnextdeveloper
+     DB_PASS=Djid8N8XNn1X0991
+     PORT=5000
+     ACCESS_TOKEN_SECRET=53d026375b8325004f59743a137dc938515d1ae44d62a552183b07019683d74c1f8688b08ae0c1d994f249d8e857e185cf65c9d794332af945c9cbd10d582e98
      ```
 
 3. **Client (codingJudge) Setup:**
