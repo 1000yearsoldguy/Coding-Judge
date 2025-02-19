@@ -46,3 +46,4 @@
    - Install the project dependencies by running: `npm i`
    - Start the server by running: `npm start`
    - The server will be running on port 5000 (http://localhost:5000).
+- **Moving between folders in the terminal:** Use the command `cd folderName` to navigate to a specific folder.
